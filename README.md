@@ -5,7 +5,7 @@ This open-source tool helps **recruiters safely share candidate resumes with com
 
 > ✅ Runs 100% offline (no data leaves your computer)  
 > ✅ Supports Japanese, English, and mixed-language PDFs  
-> ✅ Free & open-source (MIT License)
+> ✅ Free & open-source (Apache 2.0)
 
 ---
 
